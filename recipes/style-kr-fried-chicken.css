@@ -1,0 +1,56 @@
+ * {
+    text-align: center;
+ }
+
+ .ingredients {
+   max-width:fit-content;
+   margin-left:auto;
+   margin-right:auto;
+ }
+
+ ul,
+ li {
+   text-align: left;
+ }
+
+ img {
+   height:600px;
+   width:auto;
+ }
+
+ p,
+ ul,
+ ol,
+ li {
+   font-family: 'Trebuchet MS', 'Helvetica', sans-serif;
+   font-weight:lighter;
+ }
+
+ h1,
+ h2,
+ h3,
+ h5 {
+   font-family: 'Calibri', 'Trebuchet MS', 'Helvetica', sans-serif;
+ }
+
+ h1 {
+   color:#2c2d36;
+ }
+
+ div.desc {
+   width:1500px;
+   margin-left:auto;
+   margin-right:auto;
+ }
+
+ div.steps {
+   width:1700px;
+   margin-left:auto;
+   margin-right:auto;
+ }
+
+ div.footer {
+   height:100px;
+   margin-left:auto;
+   margin-right:auto;
+ }
